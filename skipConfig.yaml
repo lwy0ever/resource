@@ -1,0 +1,7 @@
+- appName: 宜优选
+  packageName: com.creditwealth.client
+  skipIds:
+    - id: com.creditwealth.client:id/iv_main_skip
+      activityName: com.creditwealth.app.splash.SplashMainActivity
+      file: fileId=35399d2b-1c3b-421a-94d4-f76f16d250ee&nodeId=7
+      desc: 请填写描述
